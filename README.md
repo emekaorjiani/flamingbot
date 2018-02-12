@@ -6,7 +6,7 @@ To Join, Members register or joing the [discord app](https://discordapp.com)
 
 Members donate SBD, STEEM and SP
 
-This project is powered by [@seyidous](https://steemit.com/@seyiodus/) and (@stevenmosoes)(https://steemit.com/@stevenmosoes/)
+This project is powered by [@seyidous](https://steemit.com/@seyiodus/) and [@stevenmosoes](https://steemit.com/@stevenmosoes/)
 
 This project is mainted by [@doctorvee](https://steemit.com/@doctorvee/) a steem witness and developer
 
